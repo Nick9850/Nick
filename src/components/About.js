@@ -25,7 +25,7 @@ class About extends React.Component {
     const two = (
       <p>
         Outside of work, I'm interested in following the developments of
-        science. I also play a lot of video games.
+        science.
       </p>
     );
     const three = (
@@ -72,7 +72,7 @@ class About extends React.Component {
               {[two]}
             </div>
             <div className="about-image">
-              <img src={"/assets/me2.jpg"} />
+              <img src={"/assets/unnamed.jpg"} />
             </div>
           </div>
         </FadeInSection>

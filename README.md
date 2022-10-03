@@ -8,5 +8,5 @@
   The first iteration of <a href="https://nick904.me" target="_blank">nick904.me</a> built with React.js leveraging Material UI.
 </p>
 
-<img width="1306" alt="Screen Shot 2021-03-15 at 8 29 18 PM">
+<img width="1306">
 
