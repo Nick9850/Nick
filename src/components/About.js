@@ -19,29 +19,20 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
-        I am currently a fourth year <b>Computer Science</b> major at
-        <a href="https://www.utoronto.ca/about-u-of-t">
-          {" "}
-          University of Toronto
-        </a>
-        . After graduation, I will be joining{" "}
-        <a href="https://www.aboutamazon.com/">Amazon</a> as a{" "}
-        <b>Software Development Engineer</b> while undertaking a part-time
-        <b> Master's of Science</b> in <b>Software Engineering </b>at{" "}
-        <a href="https://www.ox.ac.uk/about">University of Oxford</a>.
+        I am currently working for Horizon Media as a <b>Programmatic Buyer</b>
       </p>
     );
     const two = (
       <p>
         Outside of work, I'm interested in following the developments of
-        science. I also play a lot of video games. And make TikToks.
+        science. I also play a lot of video games.
       </p>
     );
     const three = (
       <p>
         <b>Want to chat?</b> Shoot me a message at{" "}
-        <a href="mailto:gazi.jarin@mail.utoronto.ca">
-          gazi.jarin@mail.utoronto.ca
+        <a href="mailto:nickreitmeyer904@gmail.com">
+          nickreitmeyer904@gmail.com
         </a>{" "}
         and let's talk.
       </p>

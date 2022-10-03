@@ -3,7 +3,6 @@ import React from "react";
 import "../styles/Intro.css";
 import Typist from "react-typist";
 import "react-typist/dist/Typist.css";
-import GaziModel from "./GaziModel";
 import EmailRoundedIcon from "@material-ui/icons/EmailRounded";
 import FadeInSection from "./FadeInSection";
 
@@ -28,7 +27,7 @@ class Intro extends React.Component {
         <Typist avgTypingDelay={120}>
           <span className="intro-title">
             {"hi, "}
-            <span className="intro-name">{"gazi"}</span>
+            <span className="intro-name">{"nick"}</span>
             {" here."}
           </span>
         </Typist>
@@ -40,7 +39,7 @@ class Intro extends React.Component {
             human-computer interactions, and everything in between.
           </div>
           <a
-            href="mailto:gazi.jarin@mail.utoronto.ca"
+            href="mailto:nickreitmeyer904@gmail.com"
             className="intro-contact"
           >
             <EmailRoundedIcon></EmailRoundedIcon>
